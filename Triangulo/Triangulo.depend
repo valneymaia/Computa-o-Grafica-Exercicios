@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1752108248 source:c:\users\maia\desktop\cg\triangulo\main.c
+	<windows.h>
+	<GL/glut.h>
+

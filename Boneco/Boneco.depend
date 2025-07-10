@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1752110206 source:c:\users\maia\desktop\cg\boneco\main.c
+	<windows.h>
+	<GL/glut.h>
+
